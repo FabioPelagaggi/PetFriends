@@ -1,10 +1,10 @@
-package com.infnet.pet_friends;
+package com.infnet.petfriend;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class PetFriendsApplicationTests {
+class PetfriendApplicationTests {
 
 	@Test
 	void contextLoads() {

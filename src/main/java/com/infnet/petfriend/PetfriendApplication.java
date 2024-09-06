@@ -1,13 +1,13 @@
-package com.infnet.pet_friends;
+package com.infnet.petfriend;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class PetFriendsApplication {
+public class PetfriendApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(PetFriendsApplication.class, args);
+		SpringApplication.run(PetfriendApplication.class, args);
 	}
 
 }
